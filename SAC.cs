@@ -1,5 +1,3 @@
-// UltimateAntiCheatAdvanced.cs
-// Minimal comments; placeholders marked. Drop into Assets and attach/start at boot.
 
 using System;
 using System.Collections;
@@ -506,3 +504,4 @@ public class UltimateAntiCheatAdvanced : MonoBehaviour
     }
 #endif
 }
+
